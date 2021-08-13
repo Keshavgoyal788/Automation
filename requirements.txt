@@ -1,0 +1,6 @@
+selenium==3.141.0
+selenium-wire==4.3.1
+requests
+Appium-Python-Client==1.2.0
+allure-pytest==2.6.0
+pytest==3.6.0
